@@ -38745,7 +38745,10 @@ body.rtl .account-setting {
     z-index: 2; 
 }
 
-
+.full-mega-menu {
+    left: auto !important;
+    right: 0 !important;
+}
 
 
 
