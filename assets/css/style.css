@@ -12002,7 +12002,8 @@ header.stickycls {
 .center-slider .slider-contain h1 {
     margin-bottom: 0;
     margin-top: 10px;
-    color: #222
+    color: #222;
+    text-transform: capitalize !important;
 }
 
 .home-slider .slider-contain h4,
@@ -25513,7 +25514,8 @@ body.dark {
 
 .dark .shop-sidebar-demo .shop-main .small-slider .home .slider-contain h4,
 .dark .shop-sidebar-demo .shop-main .small-slider .home .slider-contain h2 {
-    color: #222222
+    color: #222222 ;
+ 
 }
 
 .dark .bg-theme {
